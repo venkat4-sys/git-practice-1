@@ -1,0 +1,29 @@
+Java Spring Boot Sample Project
+
+This project is created to demonstrate the basic concepts of Java and Spring Boot.
+
+Features:
+- User registration
+- User login
+- User management
+- REST API implementation
+- Database connectivity
+- Exception handling
+
+Technologies Used:
+- Java
+- Spring Boot
+- Spring JDBC
+- Microsoft SQL Server
+- Maven
+- Git and GitHub
+
+Project Structure:
+The project follows a standard Spring Boot architecture with Controller, Service,
+Repository, and Model layers.
+
+The main objective of this project is to understand how a Spring Boot application
+works and how to manage the source code using Git and GitHub.
+
+Author:
+Java Developer
