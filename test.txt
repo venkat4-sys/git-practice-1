@@ -6,9 +6,7 @@ Features:
 - User registration
 - User login
 - User management
-- REST API implementation
-- Database connectivity
-- Exception handling
+
 
 Technologies Used:
 - Java
