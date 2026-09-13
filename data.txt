@@ -1,0 +1,6 @@
+Java Spring Boot Sample Project
+
+This project is created to demonstrate the basic concepts of Java and Spring Boot.
+
+Features:
+- User registration
