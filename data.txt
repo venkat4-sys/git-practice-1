@@ -4,3 +4,5 @@ This project is created to demonstrate the basic concepts of Java and Spring Boo
 
 Features:
 - User registration
+- main data got addedd
+- the data got updated here please check
